@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 中的并发
+title: 设计模式学习
 category: 技术
 comments: true
 ---
